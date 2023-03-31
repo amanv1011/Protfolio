@@ -330,7 +330,7 @@ section .title::after{
     left: 0;
     top: 0;
     background:crimson;
-    width: 70%;
+    width: 90%;
 }
 .skills .skills-content .right .JavaScript::before{
     content: "";
@@ -339,7 +339,7 @@ section .title::after{
     left: 0;
     top: 0;
     background:crimson;
-    width: 80%;
+    width: 95%;
 }
 .skills .skills-content .right .html::before{
     content: "";
@@ -357,7 +357,7 @@ section .title::after{
     left: 0;
     top: 0;
     background:crimson;
-    width: 75%;
+    width: 80%;
 }
 .skills .skills-content .right .bootstrap::before{
     content: "";
